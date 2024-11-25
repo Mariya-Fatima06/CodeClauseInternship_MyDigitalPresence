@@ -1,6 +1,9 @@
 CodeClause Internship Task1:
+
 My Digital Presence
+
 🌐 Personal Portfolio Website
+
 Welcome to my personal portfolio website! This project showcases my skills and serves as a central hub for my work and professional background.
 
 🛠️ Built With
