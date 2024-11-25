@@ -1,0 +1,88 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+        text-align: right;
+        word-spacing: 25px;
+        margin-right: 25px;
+}
+
+h2{
+    text-align: center;
+    word-spacing: normal;
+    color: rgb(124, 70, 70);
+    font-size: xx-large;
+    font-style: italic;
+}
+
+body{
+        background-color: antiquewhite;
+        background-image: url('images/background.jpg');
+        background-size: cover;
+        background-position: cover;
+        background-repeat: no-repeat;
+}
+
+dl{
+    font-size: larger;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+ul{
+    font-size: larger;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+h1{
+    text-align: center;
+    margin-left: 25px;
+    font-style: italic;
+    color: rgb(145, 100, 81);
+}
+
+p{
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: rgb(45, 21, 4);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#about{
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: large;
+}
+
+#projects{
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: large;
+}
+
+#skills{
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: large;
+}
+
+#contact{
+    display: grid;
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: large;
+}
+
+footer{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: rgb(225, 91, 117);
+}
